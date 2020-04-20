@@ -1,0 +1,129 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": "001",
+        "name": "징징이",
+        "des": "명품 징징이",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfNjEg/MDAxNTcwNzg1ODM3Nzc0.zxDXm20VlPdQv8GQi9LWOdPwkqoBdiEmf8aBTWTsPF8g.FqMQTiF6ufydkQxrLBgET3kNYAyyKGJTWTyi1qd1-_Ag.PNG.kkson50/sample_images_01.png?type=w800",
+        "price": [
+          "5000",
+          "500"
+        ],
+        "stock": "20",
+        "status": "pre-order",
+        "category": [
+          "Women",
+          "의류",
+          "탑",
+          "셔츠"
+        ]
+      },
+      {
+        "id": "002",
+        "name": "곰돌이",
+        "des": "곰돌이 푸",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfODMg/MDAxNTcwNzg1ODM3NTUz.2m5sz7K4ATO7WZzXYGE-MmUQ1DYUOflq0IaGgitVZEIg.jYZnxxm0E275Jplbrw25aFCFPVXKcmai1zhf8rlYl3Eg.PNG.kkson50/sample_images_02.png?type=w800",
+        "price": [
+          "10000",
+          "200"
+        ],
+        "stock": "0",
+        "status": "sale",
+        "category": [
+          "Men",
+          "슈즈",
+          "부츠"
+        ]
+      },
+      {
+        "id": "003",
+        "name": "땡글이 안경",
+        "des": "동글동글한 안경입니다.",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMjIg/MDAxNTcwNzg1ODM3NTU0.S-ltTb4JaOedIKIRE-mWYcVuZGTBGi8Z8G8NJZtQmrkg.dlyc5gHE3DSF4rvH3fiirLhP7ilKSZuz6t0a0KoWJrYg.PNG.kkson50/sample_images_03.png?type=w800",
+        "tags": [
+          "동글이",
+          "안경",
+          "공부벌레"
+        ],
+        "price": [
+          "400",
+          "30"
+        ],
+        "stock": "2",
+        "status": "pre-order",
+        "category": [
+          "Men",
+          "가방",
+          "백팩"
+        ]
+      },
+      {
+        "id": "004",
+        "name": "피자",
+        "des": "피자피자",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMjYw/MDAxNTcwNzg1ODM3NTY0.wmnNedC0zB5ummw6DSfYJeQEkiqILCyHRArLs7ZkSzgg.FfY1vXaDbLM3EdsvBHDV1EP0FVKo4jamY_yAJfs9gBIg.PNG.kkson50/sample_images_04.png?type=w800",
+        "tags": [
+          "피자",
+          "맛잇다",
+          "너두나두"
+        ],
+        "price": [
+          "40",
+          "10"
+        ],
+        "stock": "5",
+        "status": "pre-order",
+        "category": [
+          "Women",
+          "액세사리",
+          "헤어 ACC"
+        ]
+      },
+      {
+        "id": "005",
+        "name": "수영복",
+        "des": "명품 수영복",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMjg3/MDAxNTcwNzg1ODM3NTY1.qqCY6WHNolzYOJqJjNzx-5Z-ehx-Up4tJIbsMXOvLAcg.MroaRE_xMGpj1j-TshpXbgNT4yoFbWauCiyM4ngnBk8g.PNG.kkson50/sample_images_05.png?type=w800",
+        "tags": [
+          "수영복",
+          "멋잇다"
+        ],
+        "price": [
+          "30",
+          "5"
+        ],
+        "stock": "15",
+        "status": "pre-order",
+        "category": [
+          "Women",
+          "의류",
+          "액티브웨어"
+        ]
+      },
+      {
+        "id": "006",
+        "name": "맥퀸 반지",
+        "des": "알렉산더 맥퀸의 반지 공격력 + 10만",
+        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMTAw/MDAxNTcwNzg1ODM3NTY1.uCp9Q26Lqw62aen65yhk-c1grJ6Vg7_8N0uG8CEBCrsg.HPEPk-ivoCIJdDmfcIqXmFYfZL1Yhw5EzLXVZgTGHgYg.PNG.kkson50/sample_images_07.png?type=w800",
+        "tags": [
+          "공격력",
+          "강하다",
+          "쌔다"
+        ],
+        "price": [
+          "1450",
+          "24"
+        ],
+        "stock": "0",
+        "status": "pre-order",
+        "category": [
+          "Men",
+          "쥬얼리",
+          "반지"
+        ]
+      }
+    ]
+  },
+  "createdAt": "2020-04-20 18:54:20"
+}
