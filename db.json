@@ -79,49 +79,6 @@
           "액세사리",
           "헤어 ACC"
         ]
-      },
-      {
-        "id": "005",
-        "name": "수영복",
-        "des": "명품 수영복",
-        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMjg3/MDAxNTcwNzg1ODM3NTY1.qqCY6WHNolzYOJqJjNzx-5Z-ehx-Up4tJIbsMXOvLAcg.MroaRE_xMGpj1j-TshpXbgNT4yoFbWauCiyM4ngnBk8g.PNG.kkson50/sample_images_05.png?type=w800",
-        "tags": [
-          "수영복",
-          "멋잇다"
-        ],
-        "price": [
-          "30",
-          "5"
-        ],
-        "stock": "15",
-        "status": "pre-order",
-        "category": [
-          "Women",
-          "의류",
-          "액티브웨어"
-        ]
-      },
-      {
-        "id": "006",
-        "name": "맥퀸 반지",
-        "des": "알렉산더 맥퀸의 반지 공격력 + 10만",
-        "url": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfMTAw/MDAxNTcwNzg1ODM3NTY1.uCp9Q26Lqw62aen65yhk-c1grJ6Vg7_8N0uG8CEBCrsg.HPEPk-ivoCIJdDmfcIqXmFYfZL1Yhw5EzLXVZgTGHgYg.PNG.kkson50/sample_images_07.png?type=w800",
-        "tags": [
-          "공격력",
-          "강하다",
-          "쌔다"
-        ],
-        "price": [
-          "1450",
-          "24"
-        ],
-        "stock": "0",
-        "status": "pre-order",
-        "category": [
-          "Men",
-          "쥬얼리",
-          "반지"
-        ]
       }
     ]
   },
